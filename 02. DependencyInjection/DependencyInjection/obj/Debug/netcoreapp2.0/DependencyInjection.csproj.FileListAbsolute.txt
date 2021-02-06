@@ -1,0 +1,22 @@
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.deps.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.dev.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csprojAssemblyReference.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.deps.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.dev.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csprojAssemblyReference.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\02. DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb

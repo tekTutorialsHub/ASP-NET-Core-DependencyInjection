@@ -1,0 +1,12 @@
+﻿@model List<DependencyInjection.Models.ProductViewModel>;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var product in Model)
+{
+    <p>@product.Id  @product.Name</p>
+}

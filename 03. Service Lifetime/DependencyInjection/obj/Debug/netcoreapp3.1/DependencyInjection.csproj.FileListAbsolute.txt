@@ -1,0 +1,74 @@
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.Views.dll
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.Views.pdb
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.MvcApplicationPartsAssemblyInfo.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorAssemblyInfo.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorAssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.TagHelpers.input.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.TagHelpers.output.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorCoreGenerate.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorTargetAssemblyInfo.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorTargetAssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.Views.pdb
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\staticwebassets\DependencyInjection.StaticWebAssets.Manifest.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\staticwebassets\DependencyInjection.StaticWebAssets.xml
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
+D:\TekTutorialsHub\ASPNetCore\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.Views.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.Views.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.MvcApplicationPartsAssemblyInfo.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorAssemblyInfo.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorAssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.TagHelpers.input.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.TagHelpers.output.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorCoreGenerate.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorTargetAssemblyInfo.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.RazorTargetAssemblyInfo.cs
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.Views.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\staticwebassets\DependencyInjection.StaticWebAssets.Manifest.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\staticwebassets\DependencyInjection.StaticWebAssets.xml
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
+D:\TekTutorialsHub\ASPNetCore\ASP-NET-Core-DependencyInjection\03. Service Lifetime\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
